@@ -1,0 +1,30 @@
+body{
+	font-family: "Trebuchet MS";
+}
+button{
+	background-color: salmon;
+	color: #fff;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 12px;
+	border:0px;
+	margin-top: 20px;
+}
+td{
+	margin-top: 10px;
+	float: left;
+	text-align: left;
+	width: 100%;
+}
+div{
+	width: 100%;
+	height: auto;
+}
+tr{
+	width: 400px;
+	height: auto;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ededed;
+}
